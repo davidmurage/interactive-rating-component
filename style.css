@@ -82,7 +82,7 @@ button{
     color: #fff;
     width: 100%;
     padding: 0.8rem 0 0.6rem;
-    border-radius: 30px;
+    border-radius: 31px;
     border: none;
     text-transform: uppercase;
 }
@@ -121,7 +121,7 @@ button{
 
 .thank-you p{
     color:  hsl(213, 12%, 63%);
-    margin-bottom: 2rem;
+    margin-bottom: 3rem;
 
 }
 
@@ -134,7 +134,7 @@ button{
     font-size: 14px;
     text-align: center;
     color: #fff;
-    margin-top: 2rem;
+    margin-top: 3rem;
 }
 
 .attribution a{
